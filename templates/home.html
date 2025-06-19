@@ -1,0 +1,17 @@
+{% extends "base.html" %} {% block content %}
+<div
+  class="min-h-screen bg-cover bg-center flex flex-col justify-center items-center text-white text-center px-6"
+  style="background-image: url('{{ url_for('static', filename='images/bg.png') }}');"
+>
+  <div class="bg-black bg-opacity-60 p-8 rounded-lg max-w-2xl shadow-lg">
+    <h1 class="text-4xl md:text-5xl font-extrabold mb-4 leading-tight">
+      Fight Fraud.<br />
+      Protect Policies.<br />
+      <span class="text-blue-300">Secure Trust.</span>
+    </h1>
+    <p class="text-lg mt-2">
+      Your safety is our mission. Use AI to stay ahead of fraud.
+    </p>
+  </div>
+</div>
+{% endblock %}
