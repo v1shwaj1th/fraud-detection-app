@@ -4,7 +4,7 @@ A full-stack machine learning web application to detect fraudulent insurance cla
 
 ## 🚀 Live Demo
 
-👉 [View Live App]([https://your-render-link.com](https://insurance-fraud-detector-bvjh.onrender.com/))  
+👉 [View Live App] https://insurance-fraud-detector-bvjh.onrender.com/
 
 ## 🧠 Machine Learning Pipeline
 
