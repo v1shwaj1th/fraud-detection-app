@@ -34,6 +34,27 @@ A full-stack machine learning web application to detect fraudulent insurance cla
 | Deployment       | Render                               |
 | Others           | Jupyter Notebook, Pickle             |
 
+
+## Screenshots
+### Home Page
+![image](https://github.com/user-attachments/assets/e4abd996-5ecd-4835-b69f-eb873e96cb8f)
+
+### About Page
+![image](https://github.com/user-attachments/assets/f555f6a5-0a03-4c35-92d8-5b5e303bf71d)
+
+### Contact Page
+![image](https://github.com/user-attachments/assets/7df00135-8a42-424f-9138-bae61a30e166)
+
+### Predict
+![image](https://github.com/user-attachments/assets/ff341b5b-34fe-4b71-aaac-1fec0653df04)
+![image](https://github.com/user-attachments/assets/b750cb70-587e-461a-b305-753fd062c150)
+
+### Result
+![image](https://github.com/user-attachments/assets/49e8eec8-dd08-4471-9709-1ff059a7f04b)
+
+
+
+
 ## 📁 Project Structure
 
 ```
